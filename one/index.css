@@ -1,0 +1,166 @@
+body{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    
+}
+
+#nav-bar{
+     position:absolute;
+     top: 0;
+     right: 0;
+     left: 0;
+     padding: 10px;
+     height: 120px;
+     border-bottom: #220f0f 2px solid;
+   }
+#icon{
+    position: absolute;
+    text-align: end;
+    top: 0;
+    right: 0;
+    left: 10px;
+    font-size: 3em;
+    color: #36c;
+    padding: 5px;
+    
+}
+
+
+#container{
+    
+    padding: 30px;
+    margin-top: 150px;
+    border-radius: 15px;
+   
+}
+
+#my-input{
+    font-size: 1.2em;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#my-button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    color: blueviolet;
+    border-radius: 6px;
+
+}
+
+#free{
+    padding: 40px;
+    margin-top: 45em;
+    border-radius: 15px;
+    border: solid 2px ;
+}
+
+#free1{
+    background-color: #36c;
+    border-radius: 15px;
+    border: solid 2px white;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+
+#membership{
+   
+    padding: 30px;
+    margin: 15px;
+    border-radius: 15px;
+    border: solid 2px ;
+}
+
+
+#membership1{
+    border-radius: 15px;
+    border: solid 2px black;
+    text-align: center;
+    background-color: #36c;
+    color: white;
+}
+
+
+#img-container{
+    
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 25px;
+    border: solid 2px black;
+}
+#one{
+    text-align: center;
+    background-color: #36c;
+    border-radius: 15px;
+    border: solid 2px black;
+}
+
+
+#two{
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0px;
+    margin-top: 10px;
+    background-color: #36c;
+    border: solid 2px black;
+    
+}
+
+#img{
+    width: 70px;
+    border-radius: 90rem;
+
+}
+
+
+img{
+    position: absolute;
+    right: 0;
+    left: 0;
+    
+}
+#icons{
+    color: #36c;
+    font-size: 3em;
+    text-align: center;
+}
+
+#zero{
+    
+    padding: 2px;
+    border-radius: 20px;
+}
+
+#a{
+    text-align: center;
+    padding: 5px;
+
+}
+#zeroTwo{
+    background-color: rgb(201, 204, 28);
+    color: white;
+    padding: 7px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+
+#color{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(252, 252, 15, 0.863);
+    padding: 15px;
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+
+#newUpdate{
+    font-size: 3em;
+    color: #36c
+}
